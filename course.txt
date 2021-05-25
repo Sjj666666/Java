@@ -1,0 +1,12 @@
+001,java,90
+002,java,88
+003,java,70
+004,java,85
+001,wangluo,90
+002,wangluo,88
+003,wangluo,90
+004,wangluo,88
+001,c,90
+002,c,88
+003,c,90
+004,c,88

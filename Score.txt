@@ -1,0 +1,11 @@
+按学生统计：
+学号	姓名	性别	平均分
+001	zhangshan	nv	90.0
+002	liyun	nan	88.0
+003	wangyan	nv	83.33333333333333
+004	liuhua	nan	87.0
+按课程统计：
+课程	平均分
+java	83.25
+wangluo	89.0
+c	89.0
